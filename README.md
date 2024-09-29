@@ -17,7 +17,7 @@ I am a **Computer Science student** specialized in **Software Engineering** with
   
 - **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-5.x-blue?logo=mysql&style=flat-square)
 
-- **DevOps Tools**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?logo=github-actions&style=flat-square)
+- **DevOps Tools**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?logo=github-actions&style=flat-square) ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&style=flat-square)
 
 ---
 
