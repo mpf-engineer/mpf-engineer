@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Marcos Pérez
 
-<!--
-**mpf-engineer/mpf-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
 
-Here are some ideas to get you started:
+I am a **Computer Science student** specialized in **Software Engineering** with experience in **small-scale projects, primarily at an educational level**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently studying at: **Escuela Superior de Ingeniería (Universidad de Cádiz)**
+- 🌱 Learning: **Software Engineering**
+  
+---
+
+### 💼 Skills & Tools
+
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python&longCache=true&style=flat-square) ![C++](https://img.shields.io/badge/C++-11/14/17-blue.svg?logo=c%2B%2B&longCache=true&style=flat-square) ![C](https://img.shields.io/badge/C-ANSI-blue.svg?logo=c&longCache=true&style=flat-square) ![C#](https://img.shields.io/badge/C%23-8.0-blue.svg?logo=c-sharp&longCache=true&style=flat-square) ![Java](https://img.shields.io/badge/Java-8/11-blue.svg?logo=java&longCache=true&style=flat-square) ![Node-RED](https://img.shields.io/badge/Node--RED-flow-orange.svg?logo=nodered&longCache=true&style=flat-square)
+
+- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-brightgreen?logo=spring-boot&longCache=true&style=flat-square)
+  
+- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-5.x-blue?logo=mysql&style=flat-square)
+
+- **DevOps Tools**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?logo=github-actions&style=flat-square)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpf-engineer&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpf-engineer&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Contact
+
+- Email: **[marcos.perezferandez@alum.uca.es]**
+
+---
+
+### ❤️ Interests
+
+- Software Engineering
+- Requirements Engineering
+- Cybersecurity
+- Artificial Intelligence applied to Music
+- Contributions to Open Source
+
+---
+
